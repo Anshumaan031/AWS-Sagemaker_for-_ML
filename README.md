@@ -3,7 +3,8 @@
 
 Amazon SageMaker is a managed service in the Amazon Web Services (AWS) public cloud. It provides the tools to build, train and deploy machine learning (ML) models for predictive analytics applications. The platform automates the tedious work of building a production-ready artificial intelligence (AI) pipeline.
 
-    $ ros2 launch object_detector detector.launch
+![image](https://user-images.githubusercontent.com/67821036/179476662-e3473f05-0000-4481-920a-48e7baa8958c.png)
+
 
 Create Free Tier AWS Account: https://aws.amazon.com/free/?all-free...
 
